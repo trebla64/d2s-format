@@ -61,6 +61,7 @@ File version. The following values are known:
 * `89` is standard game v1.08
 * `92` is v1.09 (both the standard game and the Expansion Set.)
 * `96` is v1.10+
+* `97` is Diablo II: Resurrected
 
 ### Checksum
 
